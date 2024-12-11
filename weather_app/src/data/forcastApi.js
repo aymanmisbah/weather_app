@@ -1,4 +1,4 @@
-const API_KEY = 'd74be2c553f8eaba070d4007d63d1a4a';
+const API_KEY = '';
 const API_URL = 'https://api.openweathermap.org/data/2.5/forecast';  
 
 const getForcast = async (Lat, Lon) => {
