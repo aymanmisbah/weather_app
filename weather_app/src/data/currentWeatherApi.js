@@ -1,4 +1,4 @@
-const API_KEY = 'd74be2c553f8eaba070d4007d63d1a4a';
+const API_KEY = '';
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather?'; 
 
 const x = 'q={city name}&appid={API key}'
